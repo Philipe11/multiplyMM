@@ -18,8 +18,8 @@
 - (void)viewDidLoad
 
 {
+   
     [super viewDidLoad];
-
 
     self.mySlider.minimumValue = 0;
 
